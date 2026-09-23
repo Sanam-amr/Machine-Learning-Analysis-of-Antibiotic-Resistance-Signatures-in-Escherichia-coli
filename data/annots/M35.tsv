@@ -1,0 +1,2 @@
+Protein identifier	Contig id	Start	Stop	Strand	Gene symbol	Sequence name	Scope	Element type	Element subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference sequence	% Identity to reference sequence	Alignment length	Accession of closest sequence	Name of closest sequence	HMM id	HMM description
+NA	NODE_7_length_159020_cov_76.404151	128614	128858	+	ampC_T-32A	Escherichia cephalosporin resistant ampC	core	AMR	POINT	BETA-LACTAM	CEPHALOSPORIN	POINTN	245	245	100.00	98.37	245	NZ_CP041538.1:1149245-1149489	ampC/blaEC promoter region	NA	NA

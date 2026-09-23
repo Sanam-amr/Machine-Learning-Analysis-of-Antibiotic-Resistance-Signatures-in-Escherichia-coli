@@ -1,0 +1,2 @@
+Protein identifier	Contig id	Start	Stop	Strand	Gene symbol	Sequence name	Scope	Element type	Element subtype	Class	Subclass	Method	Target length	Reference sequence length	% Coverage of reference sequence	% Identity to reference sequence	Alignment length	Accession of closest sequence	Name of closest sequence	HMM id	HMM description
+NA	NODE_6_length_137629_cov_97.177526	98252	99607	+	glpT_E448K	Escherichia fosfomycin resistant GlpT	core	AMR	POINT	FOSFOMYCIN	FOSFOMYCIN	POINTX	452	452	100.00	99.78	452	WP_000948731.1	glycerol-3-phosphate transporter GlpT	NA	NA

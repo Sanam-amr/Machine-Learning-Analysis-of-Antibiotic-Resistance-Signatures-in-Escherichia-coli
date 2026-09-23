@@ -1,0 +1,23 @@
+Required organism:
+Escherichia coli
+
+Required genomic information:
+Whole-genome/genomic features
+
+Required phenotype:
+Antimicrobial susceptibility/resistance
+
+Preferred phenotype format:
+R/S or MIC
+
+Preferred metadata:
+Isolate/sample ID
+Antibiotic
+Resistance phenotype
+
+Preferred dataset characteristics:
+Publicly available
+Well documented
+Sufficient number of isolates
+Suitable for machine learning
+Manageable computational size

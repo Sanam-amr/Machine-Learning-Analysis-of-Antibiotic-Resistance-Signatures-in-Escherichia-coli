@@ -1,0 +1,21 @@
+MPhil
+↓
+Clinical E. coli
+↓
+ESBL
+↓
+Antimicrobial susceptibility testing
+↓
+Resistance phenotype
+↓
+NEW PROJECT
+↓
+E. coli genomes
+↓
+AMR genomic determinants
+↓
+Genotype–phenotype relationship
+↓
+Machine learning
+↓
+Resistance prediction

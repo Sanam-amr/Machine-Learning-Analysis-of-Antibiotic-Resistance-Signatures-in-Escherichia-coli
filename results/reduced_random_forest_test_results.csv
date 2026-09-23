@@ -1,0 +1,2 @@
+model,accuracy,balanced_accuracy,precision,recall,specificity,f1,roc_auc,true_negative,false_positive,false_negative,true_positive,number_of_features
+Reduced Random Forest,0.9310344827586207,0.9196969696969697,0.9411764705882353,0.8727272727272727,0.9666666666666667,0.9056603773584906,0.9654545454545455,87,3,7,48,174
