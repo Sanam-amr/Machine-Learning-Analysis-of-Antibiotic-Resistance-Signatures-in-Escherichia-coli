@@ -362,11 +362,7 @@ The analysis can be reproduced by running the scripts in the order described in 
 
 
 
-\## Disclaimer
 
-
-
-This project is for research and educational purposes. The model is not intended for clinical decision-making.
 
 
 
